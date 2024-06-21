@@ -2,7 +2,7 @@
 Prototipo de Videojuego Parcial 2
 
 # Objetivo
-Crear un prototipo de videojuego sencillo utilizando Unity que demuestre las habilidades y conceptos aprendidos hasta el final del parcial.
+Implementar mejoras y nuevas características en el prototipo de videojuego utilizando Unity, destacando el progreso, refinamiento y pulido del juego desde el primer parcial.
 
 # Materiales Utilizados en el Proyecto:
 ### Títulos y audios:
